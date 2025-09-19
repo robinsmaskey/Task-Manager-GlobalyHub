@@ -50,7 +50,7 @@ npm install
 3. Database setup
 
 Ensure PostgreSQL is running.
-You should already have a PostgreSQL user (e.g. robins) and a database (task_manager).
+My PostgreSQL username is robins and a database name task_manager.
 
 To connect manually:
 
