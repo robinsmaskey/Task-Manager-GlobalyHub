@@ -74,7 +74,7 @@ Runs at: http://localhost:3000
 
 
 6. Start the frontend
-cd ../frontend
+cd ../frontend/task-manager
 npm start
 
 Runs at: http://localhost:3001
