@@ -24,9 +24,9 @@ It allows users to create, view, update, delete, and complete tasks with filteri
 
 ## 📦 Prerequisites
 Make sure you have installed:
-- Node.js (>= 18.x)  
-- npm (or yarn)  
-- PostgreSQL (>= 14.x)  
+- Node.js (18.19.1)  
+- npm 
+- PostgreSQL (16.10)  
 
 ---
 
